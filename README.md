@@ -1,6 +1,6 @@
 # personalprojects
 
-### Shot Analaysis on NHL API Data, 2024 - 2025 Season
+### Shot Analysis on NHL API Data, 2024 - 2025 Season
 
 
 
