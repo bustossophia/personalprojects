@@ -1,3 +1,6 @@
 # personalprojects
 
-Welcome to my personal project repo!
+### Shot Analaysis on NHL API Data, 2024 - 2025 Season
+
+
+
